@@ -1,0 +1,40 @@
+.main-nav {
+  font-size: 35px;
+}
+.heading-insulence {
+  margin-left: 50px;
+  font-size: 40px;
+  color: #1977cc;
+  font-family: "Poppins", sans-serif;
+  cursor: pointer;
+}
+.margin-align {
+}
+.nav-link {
+  margin-right: 5px;
+  font-size: 20px;
+  color: #000000;
+}
+
+.navbar-toggler {
+  margin-right: 50px;
+}
+
+.brand-logo {
+  width: 50px;
+}
+
+.nav-menu {
+  font-size: 25px;
+  margin: 10px;
+  padding-bottom: 30px;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+.nav-menu:hover {
+  color: #1977cc;
+  font-size: 45px;
+  text-decoration: underline;
+}

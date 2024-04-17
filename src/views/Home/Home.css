@@ -1,0 +1,30 @@
+.home-container {
+  min-height: 100vh;
+}
+.slider-img {
+  height: 400px;
+}
+.event-heading {
+  text-align: center;
+  margin-top: 50px;
+}
+.event-container {
+  display: flex;
+}
+
+.event-img-container {
+  display: inline-block;
+}
+
+.event-description-container {
+  display: inline-block;
+}
+
+.event-img {
+  margin-left: 40px;
+}
+
+.Calorie-img {
+  height: 350px;
+  width: 100vw;
+}
